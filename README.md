@@ -4,9 +4,9 @@ Django Application
 <b>
 These are some of the previews of this Webpages
 </b>
-<img href="images/screen1.png"><br>
-<img href="images/screen2.png"><br>
-<img href="images/screen3.png"><br>
+<img src="images/screen1.png"><br>
+<img src="images/screen2.png"><br>
+<img src="images/screen3.png"><br>
 
 
 <h2>
